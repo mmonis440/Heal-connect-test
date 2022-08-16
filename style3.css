@@ -1,0 +1,14 @@
+.selector-for-some-widget {
+             box-sizing: content-box;
+      }
+      
+.logo{
+    width: 20%;
+    height: 230px;
+}
+.new{
+    font-weight: bolder;
+    font-size: 36px;
+    text-decoration: double;
+    color: royalblue;
+}
